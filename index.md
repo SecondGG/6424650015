@@ -10,7 +10,7 @@ Hope you guys get to know more about me.
 
 ### About me
 
-![image](https://img.in.th/images/6165d2be36d23c4ece20a1c846d125a7.jpg)
+![image](https://img.in.th/images/aa903279206c4de2cf7113eff055fa1c.jpg)
 
 
 My name is **Nattawut Chamcheun**.

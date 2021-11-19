@@ -4,39 +4,39 @@
 
 ### Personal Details
 
-  My name is Nattawut Chamcheun. But you can call me "Friend".
+My name is Nattawut Chamcheun. But you can call me "Friend".
   
-  I'm currently a university student in Thammasart University, studying Data Science.
+I'm currently a university student in Thammasart University, studying Data Science.
   
-  My strenght is that I'm a fast learner. I can easily get into flow state when I literally focus on something.
+My strenght is that I'm a fast learner. I can easily get into flow state when I literally focus on something.
   
-  On the other hand, I'm an extremely considerate person. It's hard for me to reject people's favor even I'm busy or having a rough time.
+On the other hand, I'm an extremely considerate person. It's hard for me to reject people's favor even I'm busy or having a rough time.
  
 
 ### Language
   
-  English - (TOEIC : 920)
+English - (TOEIC : 920)
 
 
 ### Education
   
-  **Thammasart University** | Aug 2021 - Present
+**Thammasart University** | Aug 2021 - Present
    
-   B.Sc. Data Science and Innovation
+B.Sc. Data Science and Innovation
    
-   - Database Management , Data Analytics
-   - Software Development
-   - Business , Financial and Marketing
+- Database Management , Data Analytics
+- Software Development
+- Business , Financial and Marketing
 
 
 
 ### Certificate
 
- I took many courses to improve my Data Science knowledge.
+I took many courses to improve my Data Science knowledge.
  
- However, I still desire to learn more (not only just in this field of study) and I won't stop learning.
+However, I still desire to learn more (not only just in this field of study) and I won't stop learning.
 
- You can check out my related certificates [here](https://drive.google.com/drive/u/0/folders/1YldtjG_ri4yjCcnyNDO431PY4XQo3ioj).
+You can check out my related certificates [here](https://drive.google.com/drive/u/0/folders/1YldtjG_ri4yjCcnyNDO431PY4XQo3ioj).
  
  
 

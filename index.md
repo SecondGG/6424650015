@@ -1,33 +1,25 @@
-## Welcome to My Page
-
-Hello everyone! 
-
-This page will be an introduction about myself.
-
-Hope you guys get to know more about me.
-
-**Have a great day!**
-
-### About me
-
+## Nattawut Chamcheun
 ![image](https://img.in.th/images/565e0a3cc9abe8e5c4b394b5ce57f940.jpg)
 
 
-My name is **Nattawut Chamcheun**.
+### Summary
 
-But you can call me **Friend**.
 
-I'm a university student, studying **Data Science** at **Thammasat University**.
+### Language
+
+
+### Education
+
+
+### About me
+
+
+### Hobbies and Interests
 
 Besides **Data Science** , I also interest in **Crytocurrency** , **Financial** , **Japanese** and **Workout**.
 
+### Contact
 
-
-
-
-
-
-### Contacts
 
 **Email** : nattawutchamcheun@gmail.com
 

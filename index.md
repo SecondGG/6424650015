@@ -11,7 +11,8 @@ I'm currently a university student in Thammasart University, studying Data Scien
 My strenght is that I'm a fast learner. I can easily get into flow state when I literally focus on something.
   
 On the other hand, I'm an extremely considerate person. It's hard for me to reject people's favor even I'm busy or having a rough time.
- 
+
+I have experienced using Python , SQL , R. Even I'm still a beginner for coding, but I'm eager to learn more.
 
 ### Language
   
@@ -34,7 +35,7 @@ B.Sc. Data Science and Innovation
 
 I took many courses to improve my Data Science knowledge.
  
-However, I still desire to learn more (not only just in this field of study) and I won't stop learning.
+However, I still desire to gain more knowledge (not only just in this field of study) and I won't stop learning.
 
 You can check out my related certificates [here](https://drive.google.com/drive/u/0/folders/1YldtjG_ri4yjCcnyNDO431PY4XQo3ioj).
  

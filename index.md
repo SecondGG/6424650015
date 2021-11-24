@@ -5,13 +5,9 @@
 ### Personal Details
 
 My name is Nattawut Chamcheun. But you can call me "Friend".
-  
-I'm currently a university student in Thammasart University, studying Data Science.
-  
-My strenght is that I'm a fast learner. I can easily get into flow state when I literally focus on something.
-  
+I'm currently a university student in Thammasart University, studying Data Science.  
+My strenght is that I'm a fast learner. I can easily get into flow state when I literally focus on something.  
 On the other hand, I'm an extremely considerate person. It's hard for me to reject people's favor even I'm busy or having a rough time.
-
 I have experienced using Python , SQL , R. Even I'm still a beginner for coding, but I'm eager to learn more.
 
 ### Language
@@ -34,9 +30,7 @@ B.Sc. Data Science and Innovation
 ### Certificate
 
 I took many courses to improve my Data Science knowledge.
- 
 However, I still desire to gain more knowledge (not only just in this field of study) and I won't stop learning.
-
 You can check out my related certificates [here](https://drive.google.com/drive/u/0/folders/1YldtjG_ri4yjCcnyNDO431PY4XQo3ioj).
  
  
@@ -44,9 +38,7 @@ You can check out my related certificates [here](https://drive.google.com/drive/
 ### Hobbies and Interests
 
 I'm interested in Cryptocurrency , financial and workout.
-
-I enjoy my spare time reading books such as financial and mindset books.
-
+And I enjoy my spare time reading books such as financial and mindset books.
 Furthermore, I'm studying Japanese to be more multilingual person in the future.
 
 
@@ -54,6 +46,5 @@ Furthermore, I'm studying Japanese to be more multilingual person in the future.
 ### Contact
 
 **Email** : nattawutchamcheun@gmail.com
-
 **Tel** : 084-555-2363
 

@@ -4,7 +4,7 @@
 
 ### Personal Details
 
-My name is Nattawut Chamcheun. But you can call me "Friend". I'm currently a university student in Thammasart University, studying Data Science. My strenght is that I'm a fast learner. I can easily get into flow state when I literally focus on something. On the other hand, I'm an extremely considerate person. It's hard for me to reject people's favor even I'm busy or having a rough time. I have experienced using Python , SQL , R. Eventhough I'm still a beginner for coding, I'm eager to learn more.
+My name is Nattawut Chamcheun. But you can call me "Friend". I'm currently a university student in Thammasart University, studying Data Science. My strenght is that I'm a fast learner. I can easily get into flow state when I literally focus on something. On the other hand, I'm an extremely considerate person. It's hard for me to reject people's favor even I'm busy or having a rough time. I have experienced using Python , SQL and R Programming. Eventhough I'm still a beginner for coding, I'm eager to learn more.
 
 ### Skills
 

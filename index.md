@@ -9,9 +9,10 @@ My name is Nattawut Chamcheun. But you can call me "Friend". I'm currently a uni
 ### Skills
 
 - Basic Python , SQL , R Programming
-- I'm a fast learner.
-- I can work under pressure.
-- I can work as a team.
+- Fast learner
+- Ability to work under pressure.
+- Ability to work as a team.
+- Keen to learn new skills
 
 ### Language
   

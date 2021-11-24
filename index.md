@@ -14,7 +14,6 @@ I have experienced using Python , SQL , R. Even I'm still a beginner for coding,
   
 English - (TOEIC : 920)
 
-
 ### Education
   
 **Thammasart University** | Aug 2021 - Present
@@ -25,23 +24,17 @@ B.Sc. Data Science and Innovation
 - Software Development
 - Business , Financial and Marketing
 
-
-
 ### Certificate
 
 I took many courses to improve my Data Science knowledge.
 However, I still desire to gain more knowledge (not only just in this field of study) and I won't stop learning.
 You can check out my related certificates [here](https://drive.google.com/drive/u/0/folders/1YldtjG_ri4yjCcnyNDO431PY4XQo3ioj).
  
- 
-
 ### Hobbies and Interests
 
 I'm interested in Cryptocurrency , financial and workout.
 And I enjoy my spare time reading books such as financial and mindset books.
 Furthermore, I'm studying Japanese to be more multilingual person in the future.
-
-
 
 ### Contact
 

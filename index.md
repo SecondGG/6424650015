@@ -20,7 +20,7 @@ English - (TOEIC : 920)
 
 ### Education
   
-**Thammasart University** | Aug 2021 - Present
+**Thammasat University** | Aug 2021 - Present
    
 **B.Sc. Data Science and Innovation**
    
